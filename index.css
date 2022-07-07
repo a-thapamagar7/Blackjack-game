@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Trebuchet MS";
+    src: url("trebuc.ttf");
+}
+
+body {
+    font-family: 'Trebuchet MS';
+    background-image: url("table.png");
+    background-size: cover;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    margin-top: 70px;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+button {
+    background-color: goldenrod;
+    font-family: 'Trebuchet MS';
+    font-weight: bold;
+    color: #016f32;
+    border-radius: 3px;
+    font-size: 20px;
+    width: 250px;
+    height: 40px;
+    border: none;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
